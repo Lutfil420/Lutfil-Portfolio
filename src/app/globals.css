@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+/*body {
+  color: #171717;
+  background: whitesmoke; */
+
+body {
+  background-image: url('/Beige BG.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
